@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+
+body{
+	background-color: #2148C0;
+}
+
+h1{
+	margin-top:2%;
+	margin-left:10%;
+	margin-bottom:0;
+	background-color: black;
+	color:white;
+	width:70%;
+	text-align:center;
+	padding:25px;
+	
+}
+
+.register{
+	margin-top:0;
+	margin-left:10%;
+	background-color:black;
+	color:white;
+	width:70%;
+	text-align:center;
+	padding:30px;
+	
+	
+}

@@ -1,0 +1,63 @@
+@charset "ISO-8859-1";
+
+body{
+	background-color:#F0F2F5;
+}
+
+.top-nav{
+	background-color:blue;
+	margin-top:2%;
+	margin-bottom:2%;
+	
+	padding:10px;
+	
+}
+
+.top-nav #right{
+	margin-left:25%;
+	
+	
+}
+
+.top-nav #shade{
+	
+	background-color: green;
+  	color: white;
+	
+}
+
+.top-nav button{
+	background-color:black;
+	font-size:20px;
+	margin-right:40px;
+	color:white;
+	border:none;
+	
+	
+}
+
+
+.top-nav button a{
+	text-decoration:none;
+	color:white;
+	
+	
+}
+
+.top-nav button:hover{
+	background-color:gold;
+	
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+

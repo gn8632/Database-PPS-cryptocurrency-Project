@@ -1,0 +1,46 @@
+@charset "ISO-8859-1";
+
+body{
+	background-color: #2148C0;
+}
+
+h1{
+	
+	margin-top:2%;
+	margin-left:20%;
+	margin-bottom:0;
+	background-color: black;
+	color:white;
+	width:50%;
+	text-align:center;
+	padding:25px;
+	
+}
+
+
+
+.login{
+	
+	margin-top:2%;
+	margin-left:20%;
+	background-color:black;
+	color:white;
+	width:50%;
+	text-align:center;
+	padding:30px;
+	
+	
+}
+
+
+.initialization{
+	
+	margin-top:2%;
+	margin-left:40%;
+	background-color:black;
+	color:white;
+	width:10%;
+	text-align:center;
+	padding:30px;
+	
+}
